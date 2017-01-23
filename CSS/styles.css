@@ -23,3 +23,15 @@ body {
   font-weight: bold;
   color: white;
 }
+
+h2.intro {
+  font-style: oblique;
+}
+
+p.intro {
+font-family: fantasy;
+}
+
+img.intro {
+border-width: medium;
+}
